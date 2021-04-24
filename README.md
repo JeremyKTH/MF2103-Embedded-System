@@ -20,7 +20,7 @@ Develop modular programs with ARM Cortex-M microprocessor and design a distribut
 * Real-time operating system (RTOS)
 
 ## Task03
-* Distributed systems using TCP/IP
+* Distributed systems using TCP/IP via Ethernet
 
 <!-- CONTACT -->
 ## Contact
