@@ -11,13 +11,13 @@ This is a repo for the course assignments of [MF2103 Embedded Systems for Mechat
 <!--te-->
 
 ## Introduction
-Develop modular programs with ARM Cortex-M microprocessor and design a distributed, embedded motor control system using TCP/IP over Ethernet
+Develop modular programs with ARM Cortex-M microprocessor and design a distributed, embedded and real-time operating system (RTOS) for DC motor control using TCP/IP over Ethernet
 
 ## Task01
-* Digital I/O and control
+* Digital I/O + PID control + Anti-windup
 
 ## Task02
-* Real-time operating system
+* Real-time operating system (RTOS)
 
 ## Task03
 * Distributed systems using TCP/IP
